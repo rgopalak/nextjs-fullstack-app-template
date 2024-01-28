@@ -17,7 +17,6 @@
     "precommit": "yarn lint"
   },
   "husky": {
-
     "hooks": {
       "pre-commit": "npm run precommit" 
     }
